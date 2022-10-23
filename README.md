@@ -1,5 +1,5 @@
 
-## This is a wallet application that allows any user to store, send and deposit ether.
+## This is a wallet application that allows user store, send and deposit ether.
 
 ##### Features:
 
